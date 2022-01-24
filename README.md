@@ -1,5 +1,5 @@
 
-##AquariumPuzzle
+# AquariumPuzzle
 This is done as an assignment for the Artificial Intelligence course. This notebook includes an Aquarium puzzle, and a comparison of  A* and CSP.  OR-Tools was used in order to be able to create our  cp_model.
 
 
